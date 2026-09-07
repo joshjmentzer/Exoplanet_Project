@@ -1,0 +1,2 @@
+- This project is an automated pipeline to detect and characterize exoplanets by using the transit and radial velocity methods. The only input it requires is the TIC or KIC number of the parent star.
+- Please check commit dates in the main branch to view the most recent version. 
